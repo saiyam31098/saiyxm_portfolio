@@ -27,12 +27,11 @@ html{
 }
 
 body{
-
   font-family: 'Poppins', sans-serif;
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-  background-image: url(../src/assets/subtle-white-feathers-1920x1080.png);
+  background-image: url(../src/assets/simple-dashed-1920x1080.png);
 }
 
 *{
