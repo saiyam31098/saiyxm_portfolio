@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import CV from '../../assets/Saiyam_SFDCResume_24.pdf';
 
 const contact = () => {
