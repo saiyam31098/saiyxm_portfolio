@@ -1,5 +1,6 @@
 // import React from 'react';
 import Contact from './contact'
+import Scroll from '../scroll/scroll'
 import './header.css'
 
 const Header = () => {
@@ -10,6 +11,7 @@ const Header = () => {
                 <h1>Saiyam Jain</h1>
                 <h5 className="text-light">Software Engineer</h5>
                 <Contact/>
+                <Scroll />
             </div>
         </header>
     )
