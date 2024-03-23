@@ -31,3 +31,14 @@
     font-size: .7rem;
     color: var(--color-light);
 }
+
+.about__container {
+    width: 90%;
+    margin: 0 auto; 
+}
+
+.about__content p{
+
+    margin: 2rem 0 2.6rem;
+    color: var(--color-light);
+}
