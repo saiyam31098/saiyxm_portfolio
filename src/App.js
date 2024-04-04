@@ -1,10 +1,12 @@
 // import logo from './logo.svg';
 import React from 'react';
-import Header from './components/header/header';
-// import About from './components/about/about';
 import './App.css';
+import Header from './components/header/header';
 import Experience from './components/experience/experience';
 import Project from './components/projects/project';
+import Contact from './components/header/contact'
+import About from './components/about/about'
+import Footer from './components/footer/footer'
 
 function App() {
   return (
@@ -29,6 +31,11 @@ function App() {
       {/* <About /> */}
       {/* <Experience /> */}
       {/* <Project /> */}
+      <Contact/>
+      <About />
+      <Experience />
+      <Project />
+      <Footer />
     </>
   );
 }

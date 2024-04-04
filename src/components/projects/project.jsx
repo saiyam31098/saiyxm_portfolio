@@ -4,6 +4,7 @@ import SF_IMG from '../../assets/project_salesforce.jpg'
 
 const Project = () => {
     return (
+        <section id="myprojects">
         <div className="project__container">
             <h5 className="project__lightHeader">My Recent Works</h5>
             <h2 className="project__header">Projects</h2>
@@ -79,6 +80,7 @@ const Project = () => {
                 </article>
             </div>
         </div>
+        </section>
     )   
 }
 

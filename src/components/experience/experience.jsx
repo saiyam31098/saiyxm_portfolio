@@ -4,6 +4,7 @@ import { FaLaptopCode } from "react-icons/fa";
 
 const Experience = () => {
     return (
+        <section id="experience">
         <div class="body__class">
             <h5 className="work__history">Work History</h5>
             <h2 className="experience__header">Experience</h2>
@@ -37,6 +38,7 @@ const Experience = () => {
                 </div>
             </div>
         </div>
+        </section>
     )
 }
 
