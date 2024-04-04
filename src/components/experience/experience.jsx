@@ -4,8 +4,9 @@ import { FaLaptopCode } from "react-icons/fa";
 
 const Experience = () => {
     return (
-        <div class="body_Class">
-            <h1 className="experience__header">Experience</h1>
+        <div class="body__class">
+            <h5 className="work__history">Work History</h5>
+            <h2 className="experience__header">Experience</h2>
             <div class="timeline">
                 <div class="container left">
                     <div class="date">Feb 2022 - Current</div>
