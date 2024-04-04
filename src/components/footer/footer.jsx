@@ -7,7 +7,7 @@ import {BsGithub} from 'react-icons/bs'
 const Footer = () => {
   return (
     <footer>
-        <a href="#home" className='footer__title'>Saiyam</a>
+        {/* <a href="#home" className='footer__title'>Saiyam</a> */}
         <ul className="permalinks">
             <li><a href="#home">Home</a></li>
             <li><a href="#about">About</a></li>
