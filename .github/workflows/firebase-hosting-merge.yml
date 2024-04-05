@@ -16,5 +16,4 @@ jobs:
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_JAINSAIYAM_C3119 }}'
-          channelId: live
           projectId: jainsaiyam-c3119
