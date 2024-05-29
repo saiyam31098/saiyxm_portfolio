@@ -1,6 +1,8 @@
 import React from 'react';
 import './project.css';
-import SF_IMG from '../../assets/project_salesforce.jpg'
+import SF_IMG from '../../assets/project__salesforce.jpg'
+import SALASAR_IMG from '../../assets/project__SalasarWebsite.jpg';
+
 
 const Project = () => {
     return (
@@ -47,8 +49,8 @@ const Project = () => {
                     <div className="portfolio__item-image">
                         <img src={SF_IMG} alt="" />
                     </div>
-                    <h3>Project Title</h3>
-                    <small className='text-light'>Spring Boot | ReactJs | MySQL</small>
+                    <h3>Bookclub Website</h3>
+                    <small className='text-light'>HTML | CSS | PHP | MySQL</small>
                     <div className="portfolio__item-cta">
                         <a href="https://github.com/saiyam31098/" target="_blank" rel='noreferrer' className='btn'>Github</a>
                         <a href="https://saiyam31098.github.io/saiyxm_portfolio/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>  
@@ -57,13 +59,13 @@ const Project = () => {
 
                 <article className='portfolio__item'>
                     <div className="portfolio__item-image">
-                        <img src={SF_IMG} alt="" />
+                        <img src={SALASAR_IMG} alt="" />
                     </div>
-                    <h3>Project Title</h3>
-                    <small className='text-light'>Spring Boot | ReactJs | MySQL</small>
+                    <h3>Salasar Mills Website</h3>
+                    <small className='text-light'>HTML | CSS | Bootstrap | Firebase</small>
                     <div className="portfolio__item-cta">
-                        <a href="https://github.com/saiyam31098/" target="_blank" rel='noreferrer' className='btn'>Github</a>
-                        <a href="https://saiyam31098.github.io/saiyxm_portfolio/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>  
+                        <a href="https://github.com/saiyam31098/salasar-website" target="_blank" rel='noreferrer' className='btn'>Github</a>
+                        <a href="https://salasardyeing.com/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>  
                     </div>
                 </article>
 
@@ -71,8 +73,8 @@ const Project = () => {
                     <div className="portfolio__item-image">
                         <img src={SF_IMG} alt="" />
                     </div>
-                    <h3>Project Title</h3>
-                    <small className='text-light'>Spring Boot | ReactJs | MySQL</small>
+                    <h3>My Portfolio Website (v1)</h3>
+                    <small className='text-light'>ReactJs | HTML | CSS | Firebase</small>
                     <div className="portfolio__item-cta">
                         <a href="https://github.com/saiyam31098/" target="_blank" rel='noreferrer' className='btn'>Github</a>
                         <a href="https://saiyam31098.github.io/saiyxm_portfolio/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>  

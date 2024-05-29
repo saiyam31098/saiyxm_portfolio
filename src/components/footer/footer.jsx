@@ -2,6 +2,7 @@ import React from 'react'
 import './footer.css'
 import {BsLinkedin} from 'react-icons/bs'
 import {BsGithub} from 'react-icons/bs'
+import { FaGoodreads } from "react-icons/fa";
 // import {BsMedium} from 'react-icons/bs'
 
 const Footer = () => {
@@ -18,6 +19,7 @@ const Footer = () => {
         <div className="footer__socials">
           <a href="https://www.linkedin.com/in/saiyam31098/" target="_blank"><BsLinkedin/></a>
           <a href="https://github.com/saiyam31098/" target="_blank"><BsGithub/></a>
+          <a href="https://github.com/saiyam31098/" target="_blank"><FaGoodreads/></a>
         </div>
 
         <div className="footer__copyright">

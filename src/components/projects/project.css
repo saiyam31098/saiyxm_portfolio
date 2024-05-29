@@ -53,6 +53,11 @@
     gap: 1rem;
 }
 
+.text-light {
+    display: flex;
+    justify-content: center;
+}
+
 /* Media queries for medium devices(Tablets) */
 
 @media screen and (max-width: 1024px) {
