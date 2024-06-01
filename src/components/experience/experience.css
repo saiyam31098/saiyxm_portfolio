@@ -159,6 +159,18 @@
   color: #FFFFFF;
 }
 
+.experience__akamLogo {
+  height: 25%;
+  width: 25%;
+  margin-bottom: -0.7rem;
+}
+
+.experience__capgLogo {
+  height: 60%;
+  width: 60%;
+  margin-bottom: -0.5rem;
+}
+
 @media (max-width: 767.98px) {
   .timeline::after {
     left: 90px;
@@ -202,7 +214,18 @@
   .container.left .content,
   .container.right .content {
     padding: 30px 30px 30px 90px;
-    border-radius: 500px 0 0 500px;
+    /* border-radius: 500px 0 0 500px; */
+    border-radius: 30px;
+  }
+
+  .experience__akamLogo {
+    height: 50%;
+    width: 50%;
+  }
+
+  .experience__capgLogo {
+    height: 100%;
+    width: 100%;
   }
 }
 
