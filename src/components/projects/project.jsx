@@ -2,6 +2,7 @@ import React from 'react';
 import './project.css';
 import SF_IMG from '../../assets/project__salesforce.jpg'
 import SALASAR_IMG from '../../assets/project__SalasarWebsite.jpg';
+import PORTFOLIO_IMG from '../../assets/project_porfolio_website.jpg';
 
 
 const Project = () => {
@@ -14,43 +15,10 @@ const Project = () => {
             <div className="portfolio__container">
                 <article className='portfolio__item'>
                     <div className="portfolio__item-image">
-                        <img src={SF_IMG} alt="" />
+                        <img src={PORTFOLIO_IMG} alt="" />
                     </div>
-                    <h3>Project Title</h3>
-                    <small className='text-light'>Spring Boot | ReactJs | MySQL</small>
-                    <div className="portfolio__item-cta">
-                        <a href="https://github.com/saiyam31098/" target="_blank" rel='noreferrer' className='btn'>Github</a>
-                    </div>
-                </article>
-
-                <article className='portfolio__item'>
-                    <div className="portfolio__item-image">
-                        <img src={SF_IMG} alt="" />
-                    </div>
-                    <h3>Project Title</h3>
-                    <small className='text-light'>Spring Boot | ReactJs | MySQL</small>
-                    <div className="portfolio__item-cta">
-                        <a href="https://github.com/saiyam31098/" target="_blank" rel='noreferrer' className='btn'>Github</a>
-                    </div>
-                </article>
-
-                <article className='portfolio__item'>
-                    <div className="portfolio__item-image">
-                        <img src={SF_IMG} alt="" />
-                    </div>
-                    <h3>Project Title</h3>
-                    <small className='text-light'>Spring Boot | ReactJs | MySQL</small>
-                    <div className="portfolio__item-cta">
-                        <a href="https://github.com/saiyam31098/" target="_blank" rel='noreferrer' className='btn'>Github</a>
-                    </div>
-                </article>
-
-                <article className='portfolio__item'>
-                    <div className="portfolio__item-image">
-                        <img src={SF_IMG} alt="" />
-                    </div>
-                    <h3>Bookclub Website</h3>
-                    <small className='text-light'>HTML | CSS | PHP | MySQL</small>
+                    <h3>My Portfolio Website (v1)</h3>
+                    <small className='text-light'>ReactJs | HTML | CSS | Firebase</small>
                     <div className="portfolio__item-cta">
                         <a href="https://github.com/saiyam31098/" target="_blank" rel='noreferrer' className='btn'>Github</a>
                         <a href="https://saiyam31098.github.io/saiyxm_portfolio/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>  
@@ -73,11 +41,43 @@ const Project = () => {
                     <div className="portfolio__item-image">
                         <img src={SF_IMG} alt="" />
                     </div>
-                    <h3>My Portfolio Website (v1)</h3>
-                    <small className='text-light'>ReactJs | HTML | CSS | Firebase</small>
+                    <h3>Order Management System - Salesforce</h3>
+                    <small className='text-light'>Spring Boot | ReactJs | MySQL</small>
+                    <div className="portfolio__item-cta">
+                        <a href="https://github.com/saiyam31098/Order-Management-System-Salesforce/tree/master" target="_blank" rel='noreferrer' className='btn'>Github</a>
+                    </div>
+                </article>
+
+                <article className='portfolio__item'>
+                    <div className="portfolio__item-image">
+                        <img src={SF_IMG} alt="" />
+                    </div>
+                    <h3>Paypal Clone - Salesforce</h3>
+                    <small className='text-light'>Spring Boot | ReactJs | MySQL</small>
                     <div className="portfolio__item-cta">
                         <a href="https://github.com/saiyam31098/" target="_blank" rel='noreferrer' className='btn'>Github</a>
-                        <a href="https://saiyam31098.github.io/saiyxm_portfolio/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>  
+                    </div>
+                </article>
+
+                <article className='portfolio__item'>
+                    <div className="portfolio__item-image">
+                        <img src={SF_IMG} alt="" />
+                    </div>
+                    <h3>Wedding Invitation Website</h3>
+                    <small className='text-light'>Spring Boot | ReactJs | MySQL</small>
+                    <div className="portfolio__item-cta">
+                        <a href="https://github.com/saiyam31098/" target="_blank" rel='noreferrer' className='btn'>Github</a>
+                    </div>
+                </article>
+
+                <article className='portfolio__item'>
+                    <div className="portfolio__item-image">
+                        <img src={SF_IMG} alt="" />
+                    </div>
+                    <h3>Bookclub Website</h3>
+                    <small className='text-light'>HTML | CSS | PHP | MySQL</small>
+                    <div className="portfolio__item-cta">
+                        <a href="https://github.com/saiyam31098/bookclub" target="_blank" rel='noreferrer' className='btn'>Github</a>
                     </div>
                 </article>
             </div>

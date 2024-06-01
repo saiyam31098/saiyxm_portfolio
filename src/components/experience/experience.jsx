@@ -10,12 +10,14 @@ const Experience = () => {
             <h2 className="experience__header">Experience</h2>
             <div class="timeline">
                 <div class="container left">
-                    <div class="date">Feb 2022 - Current</div>
+                    <div class="date">Feb 2022 - Present</div>
                     <i class="icon"><FaLaptopCode /></i>
                     <div class="content">
                         <h2>Akamai Technologies</h2>
                         <h5 className="job__position">Software Engineer II</h5>
-                        <p> Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium. </p>
+                        <p> Build and develop complex and critical solutions by collaborating with cross-functional teams including developers, testers, designers and Program Managers. 
+                            <br/>Stack used: Apex, LWC, Aura, Mulesoft, Data Loader, Big Panda, React.
+                        </p>
                     </div>
                 </div>
                 <div class="container right">
@@ -24,7 +26,9 @@ const Experience = () => {
                     <div class="content">
                         <h2>Capgemini India Pvt Ltd</h2>
                         <h5 className="job__position">Senior Analyst</h5>
-                        <p> Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium. </p>
+                        <p> Worked as a Salesforce Developer and developed and impelemented multiple solutions for one of the largest beverage manufactures in the world. Built multiple automations which helped reduce manual work. 
+                            <br/>Stack used: Apex, LWC, Aura, Admin, Data Loader.
+                        </p>
                     </div>
                 </div>
                 <div class="container left">
@@ -33,7 +37,7 @@ const Experience = () => {
                     <div class="content">
                         <h2>Capgemini India Pvt Ltd</h2>
                         <h5 className="job__position">Senior Analyst Intern</h5>
-                        <p> Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium. </p>
+                        <p> Trained on Salesforce, Java, SQL, Angular. Developed and collaborated as a team to build projects such as Order Management System.</p>
                     </div>
                 </div>
             </div>

@@ -8,6 +8,10 @@ h1, h2, h3, h4, h5 {
     gap: 6.5rem;
 }
 
+.about__description {
+    text-align: center;
+}
+
 .about__me {
     color: var(--color-primary);
 }

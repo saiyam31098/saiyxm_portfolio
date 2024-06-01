@@ -38,8 +38,10 @@ const About = () => {
                         </article>
                     </div>
 
-                    <p>
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                    <p class="about__description">
+                    Hi There! I am an innovative software engineer with over 4 years of experience, always looking for the next adventure. I’m well-versed in a range of programming languages and have expertise in Salesforce full-stack development. 
+                    I am based out of Bangalore, India. My main focus these days is building accessible and scalable CRM solutions for our users and customers at Akamai. 
+                    When I’m not at the computer, I’m usually working out, playing games, reading, hanging out with my friends, or thinking of what new to do next.
                     </p>
 
                 </div>
