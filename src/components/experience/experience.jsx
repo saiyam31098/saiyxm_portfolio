@@ -17,8 +17,8 @@ const Experience = () => {
                     <div class="content">
                     <center><img src={AKAM_LOGO} className="experience__akamLogo" alt='Akamai Logo'></img></center>
                         {/* <h2>Akamai Technologies</h2> */}
-                        <h5 className="job__position">Upcoming - Senior Software Engineer</h5>
-                        <p> TBD after July month.
+                        <h5 className="job__position">(Upcoming) Senior Software Engineer</h5>
+                        <p> TBD after July.
                             <br/>Stack used: Apex, LWC, Aura, Admin, Data Loader.
                         </p>
                     </div>
