@@ -3,6 +3,7 @@ import './about.css';
 import { FaRankingStar } from "react-icons/fa6";
 import { FaUniversity } from "react-icons/fa";
 import { TfiWorld } from "react-icons/tfi";
+import { FaLaptopCode } from "react-icons/fa";
 
 const About = () => {
     return (
@@ -20,9 +21,9 @@ const About = () => {
                         </article>
 
                         <article className='about__card'>
-                            <FaRankingStar />
-                            <h5>CGPA</h5>
-                            <small>9.31</small>
+                            <FaLaptopCode />
+                            <h5>Current Position</h5>
+                            <small>Software Engineer II <br /><i>Akamai Technologies</i></small>
                         </article>
 
                         <article className='about__card'>
