@@ -20,7 +20,7 @@ const Project = () => {
                     <h3>IPL Dashboard - Salesforce</h3>
                     <small className='text-light'>LWC | JS | Apex | Rest API</small>
                     <div className="portfolio__item-cta">
-                        <a href="https://github.com/saiyam31098/" target="_blank" rel='noreferrer' className='btn'>Github</a>
+                        <a href="https://github.com/saiyam31098/ipl-sf-dashboard" target="_blank" rel='noreferrer' className='btn'>Github</a>
                     </div>
                 </article>
 
@@ -53,7 +53,7 @@ const Project = () => {
                         <img src={SF_IMG} alt="" />
                     </div>
                     <h3>Order Management - Salesforce</h3>
-                    <small className='text-light'>Spring Boot | ReactJs | MySQL</small>
+                    <small className='text-light'>LWC | JS | Apex</small>
                     <div className="portfolio__item-cta">
                         <a href="https://github.com/saiyam31098/Order-Management-System-Salesforce/tree/master" target="_blank" rel='noreferrer' className='btn'>Github</a>
                     </div>
@@ -64,7 +64,7 @@ const Project = () => {
                         <img src={SF_IMG} alt="" />
                     </div>
                     <h3>Paypal Clone - Salesforce</h3>
-                    <small className='text-light'>Spring Boot | ReactJs | MySQL</small>
+                    <small className='text-light'>LWC | JS | Apex</small>
                     <div className="portfolio__item-cta">
                         <a href="https://github.com/saiyam31098/" target="_blank" rel='noreferrer' className='btn'>Github</a>
                     </div>
