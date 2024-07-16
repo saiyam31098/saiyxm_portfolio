@@ -23,7 +23,7 @@ const About = () => {
                         <article className='about__card'>
                             <FaLaptopCode />
                             <h5>Current Position</h5>
-                            <small>Software Engineer II <br /><i>Akamai Technologies</i></small>
+                            <small>Senior Software Engineer <br /><i>Akamai Technologies</i></small>
                         </article>
 
                         <article className='about__card'>
