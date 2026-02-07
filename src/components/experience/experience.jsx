@@ -18,9 +18,7 @@ const Experience = () => {
                     <center><img src={AKAM_LOGO} className="experience__akamLogo" alt='Akamai Logo'></img></center>
                         {/* <h2>Akamai Technologies</h2> */}
                         <h5 className="job__position">Senior Software Engineer</h5>
-                        <p> Build and develop complex and critical solutions by collaborating with cross-functional teams including developers, testers, designers and Program Managers. 
-                            <br/>Stack used: Mulesoft, Dataweave, Apex, LWC, Admin.
-                        </p>
+                        <p> Delivered advanced Salesforce automation, dashboards, and real-time alerting solutions to improve agent productivity, SLA adherence, and system observability using Apex, LWC, MuleSoft Integrations, and Splunk, while serving as a technical SME across teams.</p>
                     </div>
                 </div>
                 <div class="container left">
@@ -30,9 +28,7 @@ const Experience = () => {
                         <center><img src={AKAM_LOGO} className="experience__akamLogo" alt='Akamai Logo'></img></center>
                         {/* <h2>Akamai Technologies</h2> */}
                         <h5 className="job__position">Software Engineer II</h5>
-                        <p> Build and develop complex and critical solutions by collaborating with cross-functional teams including developers, testers, designers and Program Managers. 
-                            <br/>Stack used: Apex, LWC, Aura, Mulesoft, Data Loader, Big Panda, React.
-                        </p>
+                        <p> Built scalable Salesforce solutions including case automation, compliance workflows, real-time integrations, and data migrations using Apex, LWC, Flows, MuleSoft (DataWeave), and Salesforce APIs, in close collaboration with cross-functional teams.</p>
                     </div>
                 </div>
                 <div class="container right">
@@ -42,9 +38,7 @@ const Experience = () => {
                         <center><img src={CAPG_LOGO} className="experience__capgLogo" alt='Capgemini Logo'></img></center>
                         {/* <h2>Capgemini India Pvt Ltd</h2> */}
                         <h5 className="job__position">Senior Analyst</h5>
-                        <p> Worked as a Salesforce Dev, developed and impelemented multiple solutions for one of the largest beverage manufactures in the world. Built multiple automations which helped reduce manual work. 
-                            <br/>Stack used: Apex, LWC, Aura, Admin, Data Loader.
-                        </p>
+                        <p> Contributed as a Salesforce developer on large-scale enterprise implementations for one of the world’s largest beverage manufacturers, delivering automation-driven solutions that reduced manual effort and improved operational efficiency using Apex, LWC, Aura, Salesforce configuration, and data tools.</p>
                     </div>
                 </div>
                 <div class="container left">
