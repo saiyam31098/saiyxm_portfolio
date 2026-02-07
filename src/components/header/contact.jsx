@@ -5,7 +5,7 @@ const Contact = () => {
 
     return (
         <div className='contact'>
-            <a href={CV} download className='btn'>Download CV</a>
+            {/* <a href={CV} download className='btn'>Download CV</a> */}
             {/* <a href='' download className='btn'>Download CV</a> */}
             <a href="mailto:saiyamjain.dev@gmail.com" className='btn btn-primary'>Contact Me</a>
         </div>

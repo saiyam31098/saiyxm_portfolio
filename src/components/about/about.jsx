@@ -40,7 +40,7 @@ const About = () => {
                     </div>
 
                     <p class="about__description">
-                    Hi There! I am an innovative software engineer with over 4 years of experience, always looking for the next adventure. I’m well-versed in a range of programming languages and have expertise in Salesforce full-stack development. 
+                    Hi There! I am an innovative software engineer with over 5+ years of experience, always looking for the next adventure. I’m well-versed in a range of programming languages and have expertise in Salesforce full-stack development. 
                     I am based out of Bangalore, India. My main focus these days is building accessible and scalable CRM solutions for our users and customers at Akamai. 
                     When I’m not at the computer, I’m usually working out, playing games, reading, hanging out with my friends, or thinking of what new to do next.
                     </p>
